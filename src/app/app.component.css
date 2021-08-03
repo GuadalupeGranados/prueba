@@ -1,0 +1,10 @@
+#calc{
+    font-family:myFirstFont;
+    font-size: 90%;
+    text-align: right;
+    background-color: inherit;
+    border: none;
+    padding-left:50px;
+    padding-right:50px;
+    padding-bottom: 90px;
+}
